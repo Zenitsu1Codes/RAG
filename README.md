@@ -33,7 +33,7 @@ Instead of relying only on the model’s knowledge, this system improves accurac
 
 ## 📊 System Architecture
 
-https://chatgpt.com/s/m_69d2044d4bd08191a2866efae457d5f1
+!System Architecture]([image-link](https://chatgpt.com/s/m_69d2044d4bd08191a2866efae457d5f1))
 
 ---
 
